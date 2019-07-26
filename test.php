@@ -1,7 +1,3 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: junjunhou
- * Date: 2019/7/26
- * Time: 10:12
- */
+
+echo 'this is test.php';
